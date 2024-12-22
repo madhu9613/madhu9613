@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhu9613
 - 👀 I’m interested in ..coding .
-- 🌱 I’m currently learning ..dsa in c++.
+- 🌱 I’m currently ............
 - 💞️ I’m looking to collaborate on .github ..
 - 📫 How to reach me .nit kkr..
 - 😄 Pronouns: ...
