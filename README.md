@@ -72,10 +72,12 @@
   <a href="mailto:rajkhowamadhujya0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://www.linkedin.com/in/madhujya-rajkhowa-a73927281">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <!-- Add LinkedIn or Twitter links if you have -->
 </p>
 
 ---
 
-> 🧠 “The best way to predict the future is to invent it.” — **Alan Kay**
 
