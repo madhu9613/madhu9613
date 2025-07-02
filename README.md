@@ -71,7 +71,7 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 - 🔗 [X-Clone - A Twitter Clone using MERN](https://github.com/madhu9613/x-clone)
 - 🔗 [X-Clone - LIVE_URL](https://twitter-clone-hscd.onrender.com)
