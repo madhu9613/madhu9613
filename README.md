@@ -1,21 +1,8 @@
 <h1 align="center">
-  <span style="display: inline-block; animation: wave-animation 2.5s infinite; transform-origin: 70% 70%;">👋</span> 
+  <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.png" width="40" style="display: inline;" />
   Hello there! I'm Madhu
 </h1>
 
-<!-- Waving Hand Keyframes -->
-<style>
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Collaborate.;Passionate+Programmer;NIT+Kurukshetra+Student" alt="Typing SVG" />
