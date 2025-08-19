@@ -16,7 +16,9 @@
 - 🌱 Currently diving deeper into **C++**, **JavaScript**, **Python**, and the **MERN stack**.
 - 💬 Always eager to collaborate on **innovative and impactful projects**.
 - 🏫 Based at **NIT Kurukshetra**, Department of Energy and Environmental Engineering.
+- 🌐 Check out my **portfolio**: [My Portfolio](https://portfolio-dusky-nine-83.vercel.app/)
 - 🤝 Let's **learn**, **build**, and **grow** together!
+
 
 ---
 
@@ -91,6 +93,10 @@
   <a href="https://www.linkedin.com/in/madhujya-rajkhowa-a73927281">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://portfolio-dusky-nine-83.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
 </p>
+
 
 ---
