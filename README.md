@@ -76,13 +76,6 @@
 
 ---
 
-## Featured Projects
-
-- 🔗 [X-Clone - A Twitter Clone using MERN](https://github.com/madhu9613/Twitter_Clone)
-- 🔗 [X-Clone - LIVE_URL](https://twitter-clone-hscd.onrender.com)
-  Real-time social media clone with Tailwind CSS, Socket.IO, and MongoDB.
-
----
 
 ## 📫 Connect with Me
 
